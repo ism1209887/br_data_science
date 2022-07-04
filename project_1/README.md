@@ -52,3 +52,4 @@ GitHub оформлен соответствующим образом;
 Выводы
 
 Получены навыки обработки данных и построения модели
+https://drive.google.com/drive/folders/1pFHZJoYd2V21nIP0u2pZhBVP_34phNkA?usp=sharing
