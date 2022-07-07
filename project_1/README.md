@@ -53,5 +53,5 @@
 ### Выводы
 - Получены навыки обработки данных и построения модели
 
-:arrow_up:[к оглавлению](https://github.com/DmitriySky47/sf_data_science/tree/main/project_1/README.md#Оглавление)
+### Ссылка на файл csv
 https://drive.google.com/drive/folders/1pFHZJoYd2V21nIP0u2pZhBVP_34phNkA?usp=sharing
